@@ -1,4 +1,5 @@
-# Prueba de Concepto "POC" Asistente-Médico - Quantum Health 
+# Asistente Médico
+### Prueba de Concepto "POC"  - ***Quantum Health***  
 ![Static Badge](https://img.shields.io/badge/version-POC_0.4-blue)  
 
 <img src="screen_app.jpg" >  
