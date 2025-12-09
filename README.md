@@ -22,5 +22,5 @@ Las funciones principales solo deben usarse como complemento del razonamiento m�
 - Plataforma de AI: OpenAI (Se requiere openai.api_key y openai_assistant_ID)
 - model: gpt-4-turbo-preview
 - Infraestructura de servicios:  EC2 - AWS
-- URL: [POC - Asistente Médico](http://qhealth.homeip.net:8501/)
+- Demo: [POC - Asistente Médico](http://qhealth.homeip.net:8501/)
 - Versión: ![Static Badge](https://img.shields.io/badge/version-POC_0.4-blue)
