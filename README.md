@@ -1,6 +1,7 @@
 # Prueba de Concepto "POC" Asistente-Médico - Quantum Health 
+![Static Badge](https://img.shields.io/badge/version-POC_0.4-blue)  
 
-<img src="screen_app.jpg" >
+<img src="screen_app.jpg" >  
 
 ## Descripción
 Esta es una Prueba de Concepto (POC)  para el desarrollo de un asistente médico con AI con los siguientes elementos: 
@@ -23,6 +24,8 @@ La prueba de conpceto POC para Quantum Health AI CDS no está expresamente desti
 ## Aplicación
 - Código:  Pyhton
 - Plataforma de aplicación:  Streamlit
+- PLataforma de AI: OpenAI Assistant
 - Infraestructura de servicios:  EC2 - AWS
-- Aplicación: [POC - Asistente Médico](http://qhealth.homeip.net:8501/)  
+- Aplicación: [POC - Asistente Médico](http://qhealth.homeip.net:8501/) ![Static Badge](https://img.shields.io/badge/version-POC_0.4-blue)
+
  
