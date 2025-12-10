@@ -1,11 +1,11 @@
 # Asistente Médico
-### Prueba de Concepto "POC"  - ***Quantum Health***  
+### POC de Sistema de Apoyo a la toma de Decisiones Clínicas (CDSS)  
 ![Static Badge](https://img.shields.io/badge/version-POC_0.4-blue)  
-
+<br>
 <img src="screen_app.jpg" >  
 
 ## Descripción
-Esta es una Prueba de Concepto (POC)  para el desarrollo de un asistente médico que utiliza inteligencia artificial (AI) con los siguientes elementos: 
+Esta es una Prueba de Concepto (POC)  para el desarrollo de un asistente médico que utiliza inteligencia artificial (AI) para usarse como Sistema de Apoyo a la toma de Decisiones Clínicas (CDSS) con los siguientes elementos: 
 - **Síntomas del paciente**: Como datos de entrada, Incluya edad, sexo, antecedentes médicos relevantes, medicamentos, síntomas presentes, síntomas asociados, descripciones de estudios relevantes (incluidos laboratorios e imágenes), el curso de la enfermedad y cualquier información adicional que pueda incluir al consultar a otro médico sobre su paciente. 
 - **Diagnóstico**: Es el resultado que produce la aplicación en base a los síntomas del paciente. Se utiliza como datos de referencia (RAG) el diccionario médico Webster's New World
 - **Tratamiento**: Es el resultado que produce la aplicación que sugiere el tratamiento indicado para el paciente en base a los síntomas y el diagnóstico.
